@@ -1,0 +1,32 @@
+{
+    "name": "AltSwap Extended",
+    "timestamp": "2024-02-10T13:27:39+00:00",
+    "version": {
+      "major": 2,
+      "minor": 16,
+      "patch": 198
+    },
+    "logoURI": "https://altswap.app/logo.png",
+    "keywords": [
+      "altswap",
+      "extended"
+    ],
+    "tokens": [
+        {
+            "name": "AltToken",
+            "symbol": "AT",
+            "address": "0xacc9589ed775f8d5c48bc1f7c9d88209b32ed127",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://tokens.altswap.app/images/0xacc9589ed775f8d5c48bc1f7c9d88209b32ed127.png"
+        },
+        {
+            "name": "Tether",
+            "symbol": "USDT",
+            "address": "0x55d398326f99059fF775485246999027B3197955",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://tokens.altswap.app/images/0x55d398326f99059fF775485246999027B3197955.png"
+        }
+    ]
+}
