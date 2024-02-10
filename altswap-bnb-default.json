@@ -1,0 +1,103 @@
+{
+    "name": "AltSwap Binance Smart Chain Default",
+    "timestamp": "2024-02-10T13:27:39+00:00",
+    "version": {
+      "major": 1
+    },
+    "logoURI": "https://altswap.app/logo.png",
+    "keywords": [
+      "altswap",
+      "default",
+      "bnb"
+    ],
+    "tokens": [
+        {
+            "name": "AltToken",
+            "symbol": "AT",
+            "address": "0xacc9589ed775f8d5c48bc1f7c9d88209b32ed127",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://tokens.altswap.app/images/0xacc9589ed775f8d5c48bc1f7c9d88209b32ed127.png"
+        },
+        {
+            "name": "WBNB Token",
+            "symbol": "WBNB",
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://tokens.altswap.app/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+          },
+        {
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "address": "0x55d398326f99059fF775485246999027B3197955",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://tokens.altswap.app/images/0x55d398326f99059fF775485246999027B3197955.png"
+        },
+        {
+            "name": "Binance USD",
+            "symbol": "BUSD",
+            "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://tokens.altswap.app/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+        },
+        {
+            "name": "Tron",
+            "symbol": "Trx",
+            "address": "0xce7de646e7208a4ef112cb6ed5038fa6cc6b12e3",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://tokens.altswap.app/images/0xce7de646e7208a4ef112cb6ed5038fa6cc6b12e3.png"
+        },
+        {
+            "name": "Cardano",
+            "symbol": "Ada",
+            "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://tokens.altswap.app/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
+        },
+        {
+            "name": "Ripple",
+            "symbol": "XRP",
+            "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://tokens.altswap.app/images/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png"
+        },
+        {
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://tokens.altswap.app/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+        },
+        {
+            "name": "Avalanche",
+            "symbol": "AVAX",
+            "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://tokens.altswap.app/images/0x1CE0c2827e2eF14D5C4f29a091d735A204794041.png"
+        },
+        {
+            "name": "Polkadot",
+            "symbol": "AVAX",
+            "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://tokens.altswap.app/images/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402.png"
+        },
+        {
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://tokens.altswap.app/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+        }
+    ]
+}
