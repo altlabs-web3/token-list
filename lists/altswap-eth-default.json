@@ -1,0 +1,55 @@
+{
+    "name": "AltSwap Ethereum Default",
+    "timestamp": "2024-02-10T13:27:39+00:00",
+    "version": {
+      "major": 1
+    },
+    "logoURI": "https://altswap.app/logo.png",
+    "keywords": [
+      "altswap",
+      "default",
+      "ethereum"
+    ],
+    "tokens": [
+      {
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "chainId": 1,
+        "decimals": 18,
+        "logoURI": "https://tokens.altswap.app/images/eth/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png"
+      },
+      {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "chainId": 1,
+        "decimals": 6,
+        "logoURI": "https://tokens.altswap.app/images/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.png"
+      },
+      {
+        "name": "Binance USD",
+        "symbol": "BUSD",
+        "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+        "chainId": 1,
+        "decimals": 18,
+        "logoURI": "https://tokens.altswap.app/images/0x4Fabb145d64652a948d72533023f6E7A623C7C53.png"
+      },
+      {
+        "name": "Binance",
+        "symbol": "BNB",
+        "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+        "chainId": 1,
+        "decimals": 18,
+        "logoURI": "https://tokens.altswap.app/images/0xB8c77482e45F1F44dE1745F52C74426C631bDD52.png"
+      },
+      {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "chainId": 1,
+        "decimals": 8,
+        "logoURI": "https://tokens.altswap.app/images/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.png"
+      }
+    ]
+}
