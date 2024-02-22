@@ -1,0 +1,23 @@
+{
+    "name": "AltSwap Binance Smart Chain Testnet Default",
+    "timestamp": "2024-02-10T13:27:39+00:00",
+    "version": {
+      "major": 1
+    },
+    "logoURI": "https://altswap.app/logo.png",
+    "keywords": [
+      "altswap",
+      "default",
+      "bnb-testnet"
+    ],
+    "tokens": [
+        {
+            "name": "AltToken",
+            "symbol": "AT",
+            "address": "0x7e0bAE51A231D57e8d09e233eEF7CaAd7336A2E0",
+            "chainId": 97,
+            "decimals": 18,
+            "logoURI": "https://tokens.altswap.app/images/0x7e0bAE51A231D57e8d09e233eEF7CaAd7336A2E0.png"
+        }
+    ]
+}
