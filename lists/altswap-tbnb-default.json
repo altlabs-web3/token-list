@@ -18,6 +18,14 @@
             "chainId": 97,
             "decimals": 18,
             "logoURI": "https://tokens.altswap.app/images/0x7e0bAE51A231D57e8d09e233eEF7CaAd7336A2E0.png"
+        },
+        {
+            "name": "WBNB Token",
+            "symbol": "WBNB",
+            "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+            "chainId": 97,
+            "decimals": 18,
+            "logoURI": "https://tokens.altswap.app/images/0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd.png"
         }
     ]
 }
